@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "861a7bb1ac8c70ac6d6d",
+    "revision": "e5d8f8c2f1084fe5e14f",
     "url": "/np.mapillary-2020/css/app.475738c0.css"
   },
   {
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/np.mapillary-2020/img/turn.48f442bf.svg"
   },
   {
-    "revision": "7945f2de65f9aa03b1cb8435f583ed18",
+    "revision": "25cd457c90728fe9664f76d910593982",
     "url": "/np.mapillary-2020/index.html"
   },
   {
-    "revision": "861a7bb1ac8c70ac6d6d",
-    "url": "/np.mapillary-2020/js/app.e88ce756.js"
+    "revision": "e5d8f8c2f1084fe5e14f",
+    "url": "/np.mapillary-2020/js/app.17536384.js"
   },
   {
     "revision": "5c88af89b50126360632",
