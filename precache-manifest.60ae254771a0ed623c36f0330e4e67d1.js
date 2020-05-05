@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df8c92fc6106c009f953",
+    "revision": "64e4b34cc2a9754cdd6f",
     "url": "/np.mapillary-2020/css/app.475738c0.css"
   },
   {
@@ -56,39 +56,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/np.mapillary-2020/img/turn.48f442bf.svg"
   },
   {
-    "revision": "f796d9293b2bfbf1a467587a4adf2570",
+    "revision": "5edbf8b9bfadac0c3952c7062bdbe4eb",
     "url": "/np.mapillary-2020/index.html"
   },
   {
-    "revision": "df8c92fc6106c009f953",
-    "url": "/np.mapillary-2020/js/app.505110c7.js"
+    "revision": "64e4b34cc2a9754cdd6f",
+    "url": "/np.mapillary-2020/js/app.720fbcb2.js"
   },
   {
     "revision": "7f5f3c1ce3d9b7dd6a6f",
     "url": "/np.mapillary-2020/js/chunk-vendors.f9d738f5.js"
   },
   {
-    "revision": "fe195b0e8056b763d742",
-    "url": "/np.mapillary-2020/js/notfound.34385235.js"
+    "revision": "3f84536e06049181742e",
+    "url": "/np.mapillary-2020/js/notfound.4cfb283b.js"
   },
   {
     "revision": "026fb335c0beafb8eebf2796f46e6fdb",
     "url": "/np.mapillary-2020/manifest.json"
   },
   {
-    "revision": "d98f494024b17a29cace1832239f1ae1",
+    "revision": "26ab9fbf9f629d31f232a321d3e989a0",
     "url": "/np.mapillary-2020/mapillary_data.json"
-  },
-  {
-    "revision": "f9a936ffe88eb9ccddb3ef22c9fb928d",
-    "url": "/np.mapillary-2020/photo_point.geojson"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/np.mapillary-2020/robots.txt"
   },
   {
-    "revision": "55a26ad46b5069c7dfd8a5bc0cae5a77",
+    "revision": "e806d86d8d7ec5aad86106a59e0cc92f",
     "url": "/np.mapillary-2020/upd.json"
   }
 ]);
