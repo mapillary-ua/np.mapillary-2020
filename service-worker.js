@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/np.mapillary-2020/precache-manifest.20f4d6fd7d5f3a2c3407dcb2aac2a75d.js"
+  "/np.mapillary-2020/precache-manifest.23d7075e2ca5f49b79ddf01ccb30f106.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "np.mapillary-2020"});
